@@ -1,0 +1,14 @@
+{
+  "name": "scroll-visualization",
+  "version": "1.0.0",
+  "author": "creaticoding",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server .",
+    "dev": "http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "packageManager": "yarn@3.2.3"
+}
